@@ -1,16 +1,18 @@
-## Hi there 👋
+## About me:
+<p>Hi! My name is Yann, i'm a student of FATEC in Carapicuíba city, Brasil.</p>
+<p>
+  Oi sou Yann, estudante da FATEC Carapicuíba. Sou uma pessoa criativa apaixonada por GameDev e por resolver problemas de forma direta e inventiva. Atualmente estou migrando para a área de desenvolvimento web, buscando aprender tecnologias modernas e aplicar meu olhar de design e lógica para criar experiências interativas.</p>
+  
+##
 
-<!--
-**YannEscobar/YannEscobar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+####  Formação: Estudante na FATEC Carapicuíba
+#### Interesses: Game development, design criativo, UI, Cybersegurança
+#### Objetivo atual: Iniciar carreira em desenvolvimento web (front-end e fundamentos de back-end)
+#### O que você encontrará aqui?
 
-Here are some ideas to get you started:
+##
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Projetos de GameDev e protótipos interativos
+- Pequenas aplicações web e learning projects
+- Código limpo, experimentos e notas sobre aprendizado. 
+
