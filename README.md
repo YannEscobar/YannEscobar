@@ -1,4 +1,5 @@
-## About me:
+# WELCOME 👀
+### About me:
 <img src = "lain-typing.gif" width = "250px" align = "right">
 
 <p>Hi—I'm Yann, a student at FATEC Brasil. I'm a creative person passionate about GameDev and solving problems in a direct, inventive way. I'm currently transitioning into web development, learning modern technologies and applying my design sensibility and logical thinking to create interactive experiences.</p>
