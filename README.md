@@ -1,5 +1,3 @@
-![YannEscobar's GitHub stats](./gh-stats.svg)
-
 ## About me:
 <img src = "lain-typing.gif" width = "250px" align = "right">
 
@@ -40,3 +38,4 @@
 - Código limpo, experimentos e notas sobre aprendizado.
 ---
 
+![Repos](https://img.shields.io/badge/repositories-4-blue?style=plastic)
