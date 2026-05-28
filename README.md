@@ -1,3 +1,5 @@
+![YannEscobar's GitHub stats](./gh-stats.svg)
+
 ## About me:
 <img src = "lain-typing.gif" width = "250px" align = "right">
 
