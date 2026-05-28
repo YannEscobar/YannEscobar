@@ -3,11 +3,6 @@
 
 <p>Hi—I'm Yann, a student at FATEC Brasil. I'm a creative person passionate about GameDev and solving problems in a direct, inventive way. I'm currently transitioning into web development, learning modern technologies and applying my design sensibility and logical thinking to create interactive experiences.</p>
 
-[![YannEscobar's GitHub stats](https://github-readme-stats.vercel.app/api?username=YannEscobar&theme=dark&show_icons=true&count_private=true&include_all_commits=true&hide_border=true)](https://github.com/YannEscobar)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YannEscobar&layout=compact&theme=dark&hide_border=true)](https://github.com/YannEscobar)
-
-
 <p>
   Oi sou Yann, estudante da <a href = "https://fateccarapicuiba.cps.sp.gov.br/">FATEC Carapicuíba</a>. Sou uma pessoa criativa apaixonada por GameDev e por resolver problemas de forma direta e inventiva. Atualmente estou migrando para a área de desenvolvimento web, buscando aprender tecnologias modernas e aplicar meu olhar de design e lógica para criar experiências interativas.</p>
   
