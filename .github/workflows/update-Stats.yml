@@ -1,0 +1,39 @@
+name: Update GitHub Stats
+on:
+  schedule:
+    - cron: '0 * * * *'
+  workflow_dispatch:
+
+jobs:
+  fetch-and-commit:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+
+      - name: Fetch stats image
+        run: |
+          URL="https://github-readme-stats.vercel.app/api?username=YannEscobar&theme=dark&show_icons=true&count_private=true&include_all_commits=true&hide_border=true"
+          curl -sS "$URL" -o gh-stats.svg
+          # simple validation: must start with "<svg" or contain "<svg"
+          if ! head -n 1 gh-stats.svg | grep -qi '<svg'; then
+            echo "Invalid SVG received; aborting."
+            cat gh-stats.svg
+            exit 1
+          fi
+
+      - name: Commit & push image
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add gh-stats.svg || true
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "chore: update github stats image" || echo "commit failed"
+            git push origin HEAD:main
+          fi
