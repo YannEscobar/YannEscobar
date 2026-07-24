@@ -1,7 +1,7 @@
 # WELCOME TO MY SPACE 👀
 ### About me:
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=YannEscobar&custom_title=My%20Stats&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true&theme=vue-dark)](https://github-stats-extended.vercel.app/api?username=YannEscobar&custom_title=My%20Stats&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true&theme=vue-dark)
-<img src = "lain-typing.gif" width = "500px" align = "right">
+<img src = "lain-typing.gif" width = "400px" align = "right">
 
 <p>Hi—I'm Yann, a student at FATEC, Brazil. I'm a creative person passionate about GameDev and solving problems in a direct, inventive way. I'm currently transitioning into web development, learning modern technologies and applying my design sensibility and logical thinking to create interactive experiences.</p>
 
